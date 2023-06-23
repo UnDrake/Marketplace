@@ -14,5 +14,5 @@ Configure the MS-SQL connection string in the project's configuration file.
 Run the database migrations to create the necessary tables.
 Build and run the API project.
 
-Conclusion
+Conclusion:
 The Item Marketplace project provides a robust and efficient way to manage a marketplace database through a RESTful API. It leverages the power of .NET 5-7, EF Core, Asp.Net Core, and MS-SQL to deliver a reliable solution for marketplace item management.
